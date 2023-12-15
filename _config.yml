@@ -1,6 +1,6 @@
 # Setup
-title: Not Pure Poole
-description: ls daliy life
+title: L的日常生活
+description: 生活，不在别处当下 即是全部
 url: https://lsdailylife.github.io
 avatar: /avatar.jpeg
 paginate: 5
@@ -28,21 +28,21 @@ exclude:
   - not-pure-poole.gemspec
 
 # Optimize Jekyl SEO Tag
-twitter:
-  username: vszhub
-  card: summary
-logo: logo.png
-social:
-  name: Songzi Vong
-  links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
-google_site_verification: xxxxx
-lang: en
+# twitter:
+#   username: vszhub
+#   card: summary
+# logo: logo.png
+# social:
+#   name: LS
+#   links:
+#     - https://twitter.com/vszhub
+#     - https://github.com/vszhub
+# google_site_verification: xxxxx
+# lang: en
 
-sass:
-  sass_dir: _sass
-  style: :compressed
+# sass:
+#   sass_dir: _sass
+#   style: :compressed
 
 # Options
 
