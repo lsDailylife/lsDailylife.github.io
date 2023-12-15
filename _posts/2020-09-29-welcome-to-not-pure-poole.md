@@ -13,5 +13,20 @@ color: 'var(--base08)'
 
   **在Github 上创建一个账户，具体教程可以参考下面链接的内容(写的超级详细 Very good)
  [注册github账号详细中文版教程【精选】](https://blog.csdn.net/weixin_45738527/article/details/105146064)**
-	  
-	  
+
+
+**二、下载jekyll博客模板**
+**[jekyll网站](http://jekyllthemes.org/)**
+挑选自己喜欢的博客风格，并下载到本地。进行简单的修改，可以参考下面的文章
+**[在github上搭建个人博客并在线更新](https://www.cnblogs.com/wxyww/p/xiaoshujiang.html)**
+
+**三、上传代码**
+**将代码上传到Github**
+
+**四、配置博客的域名**
+
+**五、展示成果**
+
+
+以上所有的内容都是参考大佬的这篇文章
+**[在github上搭建个人博客并在线更新](https://www.cnblogs.com/wxyww/p/xiaoshujiang.html)**
