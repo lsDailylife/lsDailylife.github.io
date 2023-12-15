@@ -11,7 +11,7 @@ color: 'var(--base08)'
 
 **一、创建一个Github账户**
 
-  在Github 上创建一个账户，具体教程可以参考下面链接的内容(写的超级详细 Very good)
- [注册github账号详细中文版教程【精选】](https://blog.csdn.net/weixin_45738527/article/details/105146064)
+  **在Github 上创建一个账户，具体教程可以参考下面链接的内容(写的超级详细 Very good)
+ [注册github账号详细中文版教程【精选】](https://blog.csdn.net/weixin_45738527/article/details/105146064)**
 	  
 	  
