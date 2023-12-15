@@ -8,3 +8,7 @@ emoji: 😁
 color: 'var(--base08)'
 ---
 **拥有一个属于自己的博客，是一件很酷的事情。今天就整理一下搭建博客的简单过程。**
+
+一、创建一个Github账户
+      在Github 上创建一个账户，具体教程可以参考下面链接的内容(写的超级详细 Very good)
+	  [注册github账号详细中文版教程【精选】](https://blog.csdn.net/weixin_45738527/article/details/105146064)
