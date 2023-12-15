@@ -27,18 +27,18 @@ exclude:
   - scripts/
   - not-pure-poole.gemspec
 
-Optimize Jekyl SEO Tag
-twitter:
-  username: ls
-  card: summary
-logo: logo.png
-social:
-  name: LS
-  links:
-    - https://lsdailylife.github.io
-    - https://lsdailylife.github.io
-google_site_verification: xxxxx
-lang: en
+# Optimize Jekyl SEO Tag
+# twitter:
+#   username: ls
+#   card: summary
+# logo: logo.png
+# social:
+#   name: LS
+#   links:
+#     - https://lsdailylife.github.io
+#     - https://lsdailylife.github.io
+# google_site_verification: xxxxx
+# lang: en
 
 # sass:
 #   sass_dir: _sass
